@@ -2,9 +2,9 @@
 
 Computer Engineering student at the University of Toronto.
 
-I like figuring out how things work—and how to make them work better for people. Usually that means building software, experimenting with AI, or asking whether an interface really needs that many buttons.
+I like figuring out how things work, and how to make them work better for people. Usually that means building useful software with AI, or asking whether an interface really needs that many buttons.
 
-I care about accessible design and making everyday things a little easier to use.
+I keep accessibility at the forefront, from the first draft through the finished experience.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-2563EB?style=flat-square)](https://www.linkedin.com/in/laila-assy/) [![Email](https://img.shields.io/badge/Email-1D4ED8?style=flat-square)](mailto:laila.assy@outlook.com)
 
@@ -14,7 +14,7 @@ I care about accessible design and making everyday things a little easier to use
 
 - 🛠️ I like building things people can actually use.
 - 💬 I start with people: what’s frustrating, what’s missing, and what would help.
-- ♿ Accessibility belongs in the first draft.
+- ♿ Accessibility belongs in the first draft and every decision after it.
 
 ## Things I’ve been building
 
@@ -37,7 +37,7 @@ A digital systems course project built with Margaret Boychuk and Manahil Saeed. 
 
 ## My toolbox
 
-**Languages:** Python · C/C++ · TypeScript · JavaScript · SQL
+**Languages:** Python · C/C++ · TypeScript · JavaScript · SQL · Assembly
 
 **Software & design:** React · Flask · Node.js · REST APIs · Git · Figma
 
@@ -49,7 +49,7 @@ A digital systems course project built with Margaret Boychuk and Manahil Saeed. 
 | Cloud & infrastructure | Docker · Kubernetes · OpenShift · Azure |
 | Messaging & integrations | Kafka · Webhooks |
 | Monitoring & networking | Grafana · Infoblox · ExtraHop · Telemetry analysis |
-| Testing & delivery | GitHub Actions · CI/CD · SonarQube · Smoke testing |
+| Testing & delivery | GitHub Actions · CI/CD · SonarQube · Aqua Security scanning · Smoke testing |
 
 ---
 
