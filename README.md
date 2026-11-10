@@ -14,7 +14,7 @@ I care about people, accessible design, and building things that make everyday l
 
 ## Selected projects
 
-### ClearRoute · Accessible navigation
+### [ClearRoute · Accessible navigation](https://github.com/lailaassy/ClearRoute)
 Co-led a team of three building a navigation map for people with low vision, with high-contrast themes, text-to-speech directions, fuzzy search, and multi-stop route planning.
 
 **C++ · OpenStreetMap · OpenMP**
