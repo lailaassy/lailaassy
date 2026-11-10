@@ -1,16 +1,33 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**lailaassy/lailaassy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Laila Assy
 
-Here are some ideas to get you started:
+### Hardware, software & thoughtful interfaces
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Building projects from digital logic to interactive web experiences.
+
+[LinkedIn](https://www.linkedin.com/in/laila-assy/) · [Email](mailto:laila.assy@outlook.com)
+
+</div>
+
+---
+
+## Featured work
+
+### [Flappy Bird on FPGA](https://github.com/lailaassy/Flappy-Bird-Digital-Systems)
+A hardware recreation of Flappy Bird with VGA output, bird movement, pillar generation, collision detection, and score tracking.
+
+**Verilog · FPGA · Quartus · ModelSim**
+
+Built with Margaret Boychuk and Manahil Saeed.
+
+## Project toolkit
+
+| Digital systems | Web interfaces |
+| :--- | :--- |
+| Verilog, FPGA, VGA | React, TypeScript, Vite |
+| Quartus, ModelSim | Component-based UI, routing |
+
+## Let’s connect
+
+Find me on [LinkedIn](https://www.linkedin.com/in/laila-assy/) or email [laila.assy@outlook.com](mailto:laila.assy@outlook.com).
