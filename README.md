@@ -6,6 +6,8 @@ I care about people, accessible design, and building things that make everyday l
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-2563EB?style=flat-square)](https://www.linkedin.com/in/laila-assy/) [![Email](https://img.shields.io/badge/Email-1D4ED8?style=flat-square)](mailto:laila.assy@outlook.com)
 
+[![Résumé](https://img.shields.io/badge/R%C3%A9sum%C3%A9-2563EB?style=flat-square)](https://github.com/lailaassy/lailaassy/blob/main/Laila_Assy_Master_resume.pdf)
+
 ## What I’m interested in
 
 - Building useful software and AI tools.
