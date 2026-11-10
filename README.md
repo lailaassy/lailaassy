@@ -31,11 +31,21 @@ A digital systems course project built with Margaret Boychuk and Manahil Saeed. 
 
 **Verilog · Quartus · ModelSim**
 
-## Tools I work with
+## Skills & tools
 
-Python · C/C++ · TypeScript · JavaScript · SQL
+**Languages:** Python · C/C++ · TypeScript · JavaScript · SQL
 
-React · Flask · Node.js · Git · Figma
+**Software & design:** React · Flask · Node.js · REST APIs · Git · Figma
+
+### Tools I’ve used at work
+
+| Area | Tools & skills |
+| :--- | :--- |
+| AI & agents | LangGraph · LangChain · Langfuse · MCP servers · RAG |
+| Cloud & infrastructure | Docker · Kubernetes · OpenShift · Azure |
+| Messaging & integrations | Kafka · Webhooks |
+| Monitoring & networking | Grafana · Infoblox · ExtraHop · Telemetry analysis |
+| Testing & delivery | GitHub Actions · CI/CD · SonarQube · Smoke testing |
 
 ---
 
