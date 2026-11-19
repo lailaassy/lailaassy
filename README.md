@@ -1,56 +1,33 @@
-![Hi, I’m Laila. Software, AI and accessible design.](https://raw.githubusercontent.com/lailaassy/lailaassy/main/header.svg)
+# Hi, I’m Laila
 
-Computer Engineering student at the University of Toronto.
+I’m a Computer Engineering student at the University of Toronto. I like building things that solve everyday problems, and making them easy for people to use. I’m interested in AI, accessible design, and the details that make an interface feel intuitive.
 
-I like figuring out how things work, and how to make them work better for people. Usually that means building useful software with AI, or asking whether an interface really needs that many buttons.
+[Portfolio](https://laila-assy.netlify.app/) · [LinkedIn](https://www.linkedin.com/in/laila-assy/) · [Email](mailto:laila.assy@outlook.com) · [Résumé](https://github.com/lailaassy/lailaassy/blob/main/Laila_Assy_Master_resume.pdf)
 
-I keep accessibility at the forefront, from the first draft through the finished experience.
+## What I’m working on
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-2563EB?style=flat-square)](https://www.linkedin.com/in/laila-assy/) [![Email](https://img.shields.io/badge/Email-1D4ED8?style=flat-square)](mailto:laila.assy@outlook.com)
+### [Space Vision](https://github.com/lailaassy/space-vision)
 
-[![Résumé](https://img.shields.io/badge/R%C3%A9sum%C3%A9-2563EB?style=flat-square)](https://github.com/lailaassy/lailaassy/blob/main/Laila_Assy_Master_resume.pdf)
+This started with a question: could I take a picture of my messy things and organize them in a drawer before buying anything? I’m working on finding individual items in crowded photos, checking what gets missed, and estimating their size with a ruler in the image.
 
-## A few things about me
+Right now I’m setting up public clutter datasets and a pretrained detection baseline. Model training and accuracy testing are still ahead.
 
-- 🛠️ I like building things people can actually use.
-- 💬 I start with people: what’s frustrating, what’s missing, and what would help.
-- ♿ Accessibility belongs in the first draft and every decision after it.
+### [Drawer Studio](https://drawer-studio.wholeblimp3.chatgpt.site/)
 
-## Things I’ve been building
+A drawer planner for trying different organizers and layouts. Set your drawer measurements, move trays around, and see what fits. I’m continuing to improve the interface and explore how photo recognition could make adding your own items easier.
 
-### [ClearRoute · Accessible navigation](https://github.com/lailaassy/ClearRoute)
-Co-led a team of three building a navigation map for people with low vision, with high-contrast themes, text-to-speech directions, fuzzy search, and multi-stop route planning.
+## Other projects
 
-**C++ · OpenStreetMap · OpenMP**
+**[ClearRoute](https://github.com/lailaassy/ClearRoute)** — I co-led a team of three building a navigation map for people with low vision, with high-contrast themes, spoken directions, fuzzy search, and multi-stop routes. Built with C++, OpenStreetMap, and OpenMP.
 
-### Hawkins: The Last Signal · In progress
-A story-based capture-the-flag game I’m building for beginners in our cybersecurity club. Players learn through six guided challenges, with private bot conversations, saved progress, scoring, and optional hints that cost points.
+**Hawkins: The Last Signal** — A story-based capture-the-flag game for beginners in our cybersecurity club. Six guided challenges, private bot conversations, saved progress, and optional hints. The prototype is built; event testing is next. Python, SQLite, Mattermost, and Docker.
 
-**Python · SQLite · Mattermost · Docker**
+**[Flappy Bird on FPGA](https://github.com/lailaassy/Flappy-Bird-Digital-Systems)** — A digital systems project with Margaret Boychuk and Manahil Saeed. We recreated the game in hardware with VGA output, movement, collision detection, and score tracking. Verilog, Quartus, and ModelSim.
 
-The playable prototype is built; event testing and finishing the player experience are next.
+## Tools I use
 
-### [Flappy Bird on FPGA](https://github.com/lailaassy/Flappy-Bird-Digital-Systems)
-A digital systems course project built with Margaret Boychuk and Manahil Saeed. We recreated Flappy Bird in hardware, with VGA output, movement, collision detection, and score tracking.
+Python · C/C++ · TypeScript · JavaScript · SQL · React · Flask · Node.js
 
-**Verilog · Quartus · ModelSim**
+At work, I’ve also used LangGraph, LangChain, Langfuse, MCP, RAG, Docker, Kubernetes, OpenShift, Azure, Kafka, and GitHub Actions.
 
-## My toolbox
-
-**Languages:** Python · C/C++ · TypeScript · JavaScript · SQL · Assembly
-
-**Software & design:** React · Flask · Node.js · REST APIs · Git · Figma
-
-### Tools I’ve used at work
-
-| Area | Tools & skills |
-| :--- | :--- |
-| AI & agents | LangGraph · LangChain · Langfuse · MCP servers · RAG |
-| Cloud & infrastructure | Docker · Kubernetes · OpenShift · Azure |
-| Messaging & integrations | Kafka · Webhooks |
-| Monitoring & networking | Grafana · Infoblox · ExtraHop · Telemetry analysis |
-| Testing & delivery | GitHub Actions · CI/CD · SonarQube · Aqua Security scanning · Smoke testing |
-
----
-
-[Let’s connect on LinkedIn](https://www.linkedin.com/in/laila-assy/) · [laila.assy@outlook.com](mailto:laila.assy@outlook.com)
+I care about accessibility from the first draft, not just at the end.
